@@ -5,7 +5,6 @@ Constantine Politis
 Date Created: November 11 2020
 
 
-
 November 09 2020
 
 
@@ -22,7 +21,7 @@ Disabled Remote management via the Terminal.
 
 Command used :
 
-sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -deactivate
+        sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -deactivate
 
 
 Checked Sharing Settings
