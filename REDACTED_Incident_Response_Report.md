@@ -30,7 +30,7 @@ Made sure that Remote Login and Remote Management were disabled.
 
 Checked Firewall Rules
 
-Looked for remote desktop software. None was installed.
+Looked for remote desktop software. None were installed.
 
 Checked for established connections with netstat via the Terminal.
 
