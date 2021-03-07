@@ -1,6 +1,5 @@
 --BEGINNING--OF--REPORT--
 
-Constantine Politis
 
 Date Created: November 11 2020
 
